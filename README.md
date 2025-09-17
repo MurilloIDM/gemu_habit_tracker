@@ -18,6 +18,8 @@
 
 ## 🗄️ Banco de Dados
 
+![alt text](database-model.png)
+
 ---
 
 ## ▶️ Como rodar o projeto

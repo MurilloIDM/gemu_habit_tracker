@@ -30,5 +30,5 @@
 - [] Implementar serviço para exibição das visões diárias e semanais.
 - [] Implementar serviço para resumo mensal.
 - [] Implementar serviço para gerencimento de conta.
-- Troca de foto de perfil
-- Troca de senha
+  - Troca de foto de perfil
+  - Troca de senha
