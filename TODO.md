@@ -1,0 +1,34 @@
+- [] Implementar Prisma
+- [] Criar diagrama com tabelas
+- [] Implementar tabelas no Prisma
+- [] Criar tela de login
+- [] Implementar serviço de autenticação
+- [] Implementar tela de cadastro de conta
+- [] Implementar serviço de cadastro de conta
+- [] Implementar tela de listagem de controles de hábitos.
+- [] Implementar serviço de listagem de controle de hábitos.
+- [] Implementar tela de cadastro de controle de hábito.
+  - Nome
+- [] Implementar tela de cadastro de itens do controle de hábito.
+  - Descrição
+  - Cor do texto
+  - Cor de exibição
+  - Ícone
+- [] Implementar tela de visualização de um controle, onde pode ser feito:
+  - Compartilhamento
+  - Deleção do controle
+  - Deleção de itens (se for proprietário)
+- [] Implementar serviço de cadastro do controle de hábito.
+- [] Implementar serviço de cadastro dos itens do controle de hábito.
+- [] Implementar serviço de listagem dos detalhes do controle de hábito.
+- [] Implementar tela de aceite ou não de convites.
+- [] Implementar serviço de aceite de convites.
+- [] Implementar tela de visão diária (escolher controle de hábito e dia específico - padrão é o atual)
+- [] Implementar tela de visão semanal (escolher controle de hábito e semana - padrão é o atual)
+- [] implementar tela de resumo mensal
+- [] Implementar tela de configurações da conta.
+- [] Implementar serviço para exibição das visões diárias e semanais.
+- [] Implementar serviço para resumo mensal.
+- [] Implementar serviço para gerencimento de conta.
+- Troca de foto de perfil
+- Troca de senha
